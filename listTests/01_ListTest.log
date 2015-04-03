@@ -1,0 +1,19 @@
+DIRECTORY .
+
+DIRECTORY ..
+
+NON_DIRECTORY excel.xlsx
+
+DIRECTORY folder
+
+NON_DIRECTORY text.txt
+
+NON_DIRECTORY word.docx
+
+excel.xlsx
+text.txt
+word.docx
+
+word.docx
+text.txt
+excel.xlsx
